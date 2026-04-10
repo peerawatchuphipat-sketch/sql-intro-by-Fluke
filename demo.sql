@@ -2,3 +2,5 @@
 -- Note: this is a code comment in SQL (meaning it's documentation and ignored by the computer).
 
 SELECT first_name, last_name FROM players;
+
+-- Hey Class!
